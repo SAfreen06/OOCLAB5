@@ -1,3 +1,5 @@
+package Lab5Task;
+
 public abstract class Product {
     private String name;
     private int stockQuantity;

@@ -1,4 +1,6 @@
-public class Clothing extends Product{
+package Lab5Task;
+
+public class Clothing extends Product {
     private static final double TAX_RATE=0.10;
     public Clothing(String name, int stockQuantity, double unitPrice)
     {
